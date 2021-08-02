@@ -1,7 +1,7 @@
 *{
     box-sizing: border-box;
     
-    font-family: Optima, Garamond, serif;
+    font-family: Varela Round, Open Sans, sans-serif;
    padding: 0;
    margin: 0;
     
@@ -11,14 +11,14 @@
     
     text-align: center;
     margin: 70px;
-    color: #9D3807;
+    color: #253d58;
     font-size: 1.75rem;
-    font-weight: bolder;
+    font-weight: 800;
 }
 
 .section-title{
 border: 1px solid black;
-background-color: #C1650D;
+background-color: #253d5b;
 color: white;
 top: 0px;
 right: 0px;
@@ -29,7 +29,7 @@ font-size: 1.25rem;
 text-align: center;
 width: 140px;
 border-radius: 2px;
-font-weight: 800;
+font-weight: 500;
 
 }
 
@@ -59,7 +59,7 @@ p{
 .box{
    
     
-    background-color: #9CA7B8;
+    background-color: #c9a959;
     margin: 5px;
     border: 1px solid black;
     border-radius: 3px;
