@@ -1,12 +1,11 @@
 .container-fluid{
 	margin: 0;
 	padding: 0;
-	background-color: #A5C5C3;
 }
 
 .navbar{
 	border-radius: 0px;
-	background-color: #A5C5C3;
+	background-color: #EC380B;
 }
 
 .navbar-brand{
@@ -37,7 +36,7 @@
 }
 
 .icon-bar{
-	background-color: #007872;
+	background-color: #EC380B;
 }
 
 
@@ -60,7 +59,8 @@ li{
 	margin: 0;
 	width: 100%;
 	background-color: #A5C5C3;
-	border-bottom: 1px white;
+	border-bottom: 1px;
+	border-bottom-color: #EC380B;
 	color: white;
 	display: block;
 }
