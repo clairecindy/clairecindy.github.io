@@ -60,8 +60,9 @@ li{
 	margin: 0;
 	width: 100%;
 	background-color: white;
-	border-bottom: 3px black;
-	color: #A5C5C3;
+	border-bottom: 3px;
+	border-bottom-color: #429F9E;
+	color: #007872;
 	display: block;
 }
 
