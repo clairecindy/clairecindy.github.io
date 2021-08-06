@@ -5,7 +5,7 @@
 
 .navbar{
 	border-radius: 0px;
-	background-color: #EC380B;
+	background-color: #A5C5C3;
 }
 
 .navbar-brand{
@@ -31,12 +31,13 @@
 }
 
 .navbar-toggle{
-	border: 2px white;
+	border: 2px;
+	border-color: #007872;
 	margin-right: 25px;
 }
 
 .icon-bar{
-	background-color: #EC380B;
+	background-color: #A5C5C3;
 }
 
 
@@ -60,7 +61,7 @@ li{
 	width: 100%;
 	background-color: #A5C5C3;
 	border-bottom: 1px;
-	border-bottom-color: #EC380B;
+	border-bottom-color: #007872;
 	color: white;
 	display: block;
 }
