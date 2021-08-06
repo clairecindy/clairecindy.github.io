@@ -60,7 +60,7 @@ li{
 	margin: 0;
 	width: 100%;
 	background-color: white;
-	border-bottom: 1px black;
+	border-bottom: 3px black;
 	color: #A5C5C3;
 	display: block;
 }
@@ -83,7 +83,7 @@ li{
 	color: white;
 	background-color: #007872;
 	font-family: 'Roboto', sans-serif;
-	padding: 20px;
+	padding: 5px;
 	border: 3px #429F9E;
 	border-radius: 10px;
 
@@ -97,5 +97,7 @@ li{
 
 #top{
 	color: #F05F3B;
+
+}
 
 }
