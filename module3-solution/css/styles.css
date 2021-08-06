@@ -11,12 +11,12 @@
 
 .navbar-brand{
   font-size: 35px;
-  color: #007872;
+  color: #EC380B;
   padding-left: 25px;
 }
 
 .navbar-brand:hover{
-	color: #007872;
+	color: #EC380B;
 }
 
 .nav{
@@ -85,7 +85,7 @@ li{
 	font-family: 'Roboto', sans-serif;
 	padding: 20px;
 	border: 3px #429F9E;
-	border-radius: 4px;
+	border-radius: 10px;
 
 }
 
