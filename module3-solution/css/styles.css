@@ -16,7 +16,7 @@
 }
 
 .navbar-brand:hover{
-	color:white;
+	color: #A5C5C3;
 }
 
 .nav{
@@ -32,7 +32,7 @@
 }
 
 .navbar-toggle{
-	border: 2px #white;
+	border: 2px white;
 	margin-right: 25px;
 }
 
@@ -60,7 +60,7 @@ li{
 	margin: 0;
 	width: 100%;
 	background-color: #A5C5C3;
-	border-bottom: 1px #007872;
+	border-bottom: 1px white;
 	color: white;
 	display: block;
 }
@@ -84,6 +84,9 @@ li{
 	background-color: #007872;
 	font-family: 'Roboto', sans-serif;
 	padding: 20px;
+	border: 3px #429F9E;
+	border-radius: 4px;
+
 }
 
 .item-name{
@@ -93,5 +96,6 @@ li{
 }
 
 #top{
+	color: #F05F3B;
 
 }
