@@ -5,17 +5,18 @@
 
 .navbar{
 	border-radius: 0px;
-	background-color: #A5C5C3;
+	background-color: #429F9E;
 }
 
 .navbar-brand{
-  font-size: 35px;
-  color: #EC380B;
+  font-size: 30px;
+  font-family: 'Poppins', sans-serif;
+  color: white;
   padding-left: 25px;
 }
 
 .navbar-brand:hover{
-	color: #EC380B;
+	color: white;
 }
 
 .nav{
@@ -24,20 +25,19 @@
 }
 
 .navbar-nav{
-  font-size: 25px;
+  font-size: 20px;
   text-align: center;
   margin: 0;
-  padding: 0;
+  padding: 10px;
 }
 
 .navbar-toggle{
-	border: 2px;
-	border-color: #007872;
+	border: 2px white;
 	margin-right: 25px;
 }
 
 .icon-bar{
-	background-color: #A5C5C3;
+	background-color: white;
 }
 
 
@@ -59,10 +59,9 @@ li{
 	padding: 0;
 	margin: 0;
 	width: 100%;
-	background-color: #A5C5C3;
-	border-bottom: 1px;
-	border-bottom-color: #007872;
-	color: white;
+	background-color: white;
+	border-bottom: 1px black;
+	color: #A5C5C3;
 	display: block;
 }
 
