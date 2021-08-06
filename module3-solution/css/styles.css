@@ -1,0 +1,96 @@
+.container-fluid{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar{
+	border-radius: 0px;
+	background-color: #FFFFFF;
+}
+
+.navbar-brand{
+  font-size: 35px;
+  color: #EC380B;
+  padding-left: 25px;
+}
+
+.navbar-brand:hover{
+	color:#EC380B;
+}
+
+.nav{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar-nav{
+  font-size: 25px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-toggle{
+	border: 2px #EC380B;
+	margin-right: 25px;
+}
+
+.icon-bar{
+	background-color: #F05F3B;
+}
+
+
+.main-title{
+  margin-bottom: 15px;
+  text-align: center;
+  color: #;
+  font-size: 50px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+}
+
+li{
+	box-sizing: border-box;
+	width: 100%;
+}
+
+.menu-item{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	background-color: #F05F3B;
+	border-bottom: 1px #EC380B;
+	color: black;
+	display: block;
+}
+
+.menu-item:hover{
+	background-color: #F05F3B;
+	color: white;
+}
+
+
+
+.row{
+	margin: 20px;
+}
+
+.content-box{
+	margin: 20px;
+	width: auto;
+	height: auto;
+	color: #007872;
+	background-color: #A5C5C3;
+	font-family: 'Roboto', sans-serif;
+	padding: 20px;
+}
+
+.item-name{
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#top{
+
+}
