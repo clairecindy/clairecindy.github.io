@@ -32,7 +32,8 @@
 }
 
 .navbar-toggle{
-	border: 2px white;
+	border: 1px;
+	border-color: #429F9E;
 	margin-right: 25px;
 }
 
@@ -60,7 +61,7 @@ li{
 	margin: 0;
 	width: 100%;
 	background-color: white;
-	border-bottom: 3px;
+	border-bottom: 2px;
 	border-bottom-color: #429F9E;
 	color: #007872;
 	display: block;
