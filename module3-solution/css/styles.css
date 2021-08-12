@@ -5,7 +5,7 @@
 
 .navbar{
 	border-radius: 0px;
-	background-color: #429F9E;
+	background-color: rgba(0,0,0,0.8);
 }
 
 .navbar-brand{
@@ -25,22 +25,20 @@
 }
 
 .navbar-nav{
-  font-size: 20px;
+  font-size: 25px;
   text-align: center;
   margin: 0;
-  padding: 5px;
+  padding: 0;
 }
 
 .navbar-toggle{
-	border: 2px black;
-	border-color: #429F9E;
+	border: 2px solid white;
 	margin-right: 25px;
 }
 
 .icon-bar{
 	background-color: white;
 }
-
 
 .main-title{
   margin-bottom: 15px;
@@ -61,17 +59,15 @@ li{
 	margin: 0;
 	width: 100%;
 	background-color: white;
-	border-bottom: 1px solid black;
-	color: #007872;
+	border-bottom: 2px solid black;
+	color: black;
 	display: block;
 }
 
 .menu-item:hover{
-	background-color: #429F9E;
-	color: white;
+	background-color: rgba(0,0,0,0.9);
+	color: rgba(0,0,0,0.4);
 }
-
-
 
 .row{
 	margin: 20px;
